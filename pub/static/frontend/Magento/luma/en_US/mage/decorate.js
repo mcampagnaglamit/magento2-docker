@@ -1,0 +1,1 @@
+/bitnami/magento/htdocs/lib/web/mage/decorate.js

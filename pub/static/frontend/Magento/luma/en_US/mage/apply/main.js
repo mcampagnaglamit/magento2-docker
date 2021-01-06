@@ -1,0 +1,1 @@
+/bitnami/magento/htdocs/lib/web/mage/apply/main.js

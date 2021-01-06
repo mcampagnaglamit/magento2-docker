@@ -1,0 +1,1 @@
+/bitnami/magento/htdocs/lib/web/jquery/spectrum/tinycolor.js
